@@ -7,5 +7,6 @@
 "ReplaceWindowKey": "",
 "LyOpenURL": "https://testflight.apple.com/join/QCvIkkJk",
 "LyBannerImageURL": "https://raw.githubusercontent.com/TeknoFrontSteady11/Express_Browser/master/banner.png",
-"LyWindowImageURL": "https://raw.githubusercontent.com/TeknoFrontSteady11/Express_Browser/master/ads.png"
+"LyWindowImageURL": "https://raw.githubusercontent.com/TeknoFrontSteady11/Express_Browser/master/ads.png",
+"pay_header":"weixin://,alipay://"
 }
