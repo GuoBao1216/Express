@@ -1,11 +1,11 @@
 {
-"myServiceConfig": true,
+"myServiceConfig": flase,
 "GoogleStandby": true,
-"GoogleBannerKey": "ca-app-pub-6390196606212387/33396517381",
-"GoogleWindowKey": "ca-app-pub-6390196606212387/48010848261",
+"GoogleBannerKey": "ca-app-pub-6226854994057139/3219671157",
+"GoogleWindowKey": "ca-app-pub-6226854994057139/7897282769",
 "ReplaceBannerKey": "",
 "ReplaceWindowKey": "",
-"LyOpenURL": "http://www.727135.com/cp152cc",
+"LyOpenURL": "",
 "LyBannerImageURL": "https://raw.githubusercontent.com/TeknoFrontSteady11/Express_Browser/master/banner.png",
 "LyWindowImageURL": "https://raw.githubusercontent.com/TeknoFrontSteady11/Express_Browser/master/ads.png"
 }
