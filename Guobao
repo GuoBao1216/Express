@@ -1,5 +1,5 @@
 {
-"myServiceConfig": flase,
+"myServiceConfig": false,
 "GoogleStandby": true,
 "GoogleBannerKey": "ca-app-pub-6226854994057139/3219671157",
 "GoogleWindowKey": "ca-app-pub-6226854994057139/7897282769",
